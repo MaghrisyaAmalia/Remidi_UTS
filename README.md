@@ -16,7 +16,7 @@ Home | Menu Drawer
 ------------ | -------------
 <img src="https://user-images.githubusercontent.com/22170389/26866228-6e646680-4b8a-11e7-9d80-91f02f4afc15.jpg" width="300" height="515" />|<img src="https://user-images.githubusercontent.com/22170389/26866230-6e673e14-4b8a-11e7-8795-d23557f848eb.png" width="300" height="515" />
 
-Drawer Foto | Drawer Identitas
+Drawer Identitas | Drawer Foto
 ------------ | -------------
 <img src="https://user-images.githubusercontent.com/22170389/26866229-6e65a45a-4b8a-11e7-8460-9d0aef89cef4.png" width="300" height="515" />|<img src="https://user-images.githubusercontent.com/22170389/26866232-6e6a3056-4b8a-11e7-8edc-0818498d150f.png" width="300" height="515" />
 
